@@ -1,10 +1,10 @@
-# AJAZZ Monitor
+# AJ139 Monitor
 
 App para Windows que mostra a bateria e configura o mouse sem fio **AJAZZ AJ139 V2 MC**, sem precisar abrir o configurador web.
 
 ## Download
 
-**[Baixar AjazzMonitor.exe (versão mais recente)](https://github.com/patgithub23/ajazz-monitor-releases/releases/latest/download/AjazzMonitor.exe)**
+**[Baixar AJ139Monitor.exe (versão mais recente)](https://github.com/patgithub23/aj139-monitor-releases/releases/latest/download/AJ139Monitor.exe)**
 
 Execute o exe; o app fica no ícone da bandeja, ao lado do relógio. Se o Windows mostrar o aviso do SmartScreen, clique em *Mais informações → Executar assim mesmo*.
 
